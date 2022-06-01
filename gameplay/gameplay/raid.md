@@ -6,7 +6,7 @@ description: >-
 
 # Raid
 
-Raids are time-based missions players have to accomplish in order to obtain rewards and clean a certain territories.
+Raids are time-based missions played with garbles to clean certain territories on the map. Players who are able to complete them can access various form of rewards.&#x20;
 
 Exasperated by the excessive amount of garbage they were producing, humans started sending it to space! The catch is that sometimes, those gigantic piles of garbage fall back to earth. Players must intervene timely to root out these nasty columns of waste and stake enough Garbles to consume them before the garbage spread around even further. Once a pile of trash is exhausted, it releases [Game Items](../resources/game-items/), [Trash Items](../resources/nft/trash-items.md) and [$NUCLEAR](../tokenomics/usdnuclear.md). Different types of trash piles will release relative types of objects (i.e. plastic piles will tend to release plastic-type objects).
 

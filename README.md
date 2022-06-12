@@ -1,22 +1,22 @@
 ---
-description: AR P2E game powered by Solana- https://www.garbles.fun/
+description: An immersive AR mobile game that saves the planet - https://www.garbles.fun/
 ---
 
 # Garbles Universe
 
 ## Summary
 
-![](<.gitbook/assets/Screenshot 2022-03-18 at 06.11.26.png>)
+![](.gitbook/assets/andrea-cau-nV7GJmSq3zc-unsplash.jpg)
 
 Welcome to the world of Garbles!&#x20;
 
 \
-Trash has become so abundant on the planet that humans don't know how to store it anymore. Luckily for us, a group of smart scientists (we call them Cleanetist) has found a way to cultivate goofy creatures that can help us!\
+Trash has become so abundant on our planet that humans don't know how to store it anymore. Luckily, a group of smart scientists (we call them Cleantists) has found a way to cultivate goofy creatures that could just be the perfect solution to the problem.\
 &#x20;\
-Garbles are cute, clumsy creatures that originate from garbage and love eating it! Help them dove into our dumpsters and gobble up every plastic bottle they can find! Assemble an army of lovable Garbles and embark on a journey to populate the planet...while cleaning it!
+Garbles are cute, clumsy monsters that originate from garbage. Help them dove into our dumpsters and gobble up every plastic bottle they can find! Every time you create a Garble you are removing actual C02 from the environment. Assemble an army of lovable creatures and embark on a journey to populate the planet...while saving it!
 
 **Official links**
 
-**Website:** [**https://www.garbles.fun/**](https://www.garbles.fun)  ****  \
+**Website:** [**https://www.garbles.fun/**](https://www.garbles.fun/)  ****  \
 **Discord:** [**https://discord.gg/yKvddrZ25u** ](https://discord.gg/yKvddrZ25u)****\
 **Twitter:** [**https://twitter.com/garblesfun**](https://twitter.com/garblesfun)****

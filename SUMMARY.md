@@ -20,6 +20,7 @@
   * [Game Items](gameplay/resources/game-items/README.md)
     * [Candies](gameplay/resources/game-items/candies.md)
     * [Cartridges](gameplay/resources/game-items/cartridges.md)
+  * [C02 tokens](gameplay/resources/c02-tokens.md)
 * [Tokenomics](gameplay/tokenomics/README.md)
   * [$NUCLEAR](gameplay/tokenomics/usdnuclear.md)
 * [Roadmap](gameplay/roadmap.md)

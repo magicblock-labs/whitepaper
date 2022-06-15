@@ -1,5 +1,5 @@
 ---
-description: Carbon credit certificates on-chain
+description: C02 certificates on-chain
 ---
 
 # C02 tokens
@@ -10,5 +10,12 @@ description: Carbon credit certificates on-chain
 
 **What are carbon credit tokens?**
 
-Carbon credits tokens are simply an on-chain representation of the off-chain certificates. There are a few projects that tokenize carbon credit, the most notable being [Toucan](https://toucan.earth/) and [Moss](https://moss.earth/). projects They can trade in a non-fungibile, semi-fungible or fungible fashion and  [https://docs.toucan.earth/protocol/pool/key-concepts](https://docs.toucan.earth/protocol/pool/key-concepts)
+Carbon credits tokens are simply an on-chain representation of the off-chain certificates. There are a few projects that tokenize carbon credits, the leading ones being [Toucan](https://toucan.earth/) and [Moss](https://moss.earth/).  Carbon assets on-chain can trade in a non-fungible, semi-fungible or fungible fashion like $BCT (Base Carbon Tonne). You can read more about carbon tokens here. [https://docs.toucan.earth/protocol/pool/key-concepts](https://docs.toucan.earth/protocol/pool/key-concepts). \
+\
+**How does Garbles accumulate carbon tokens?**\
+****Garbles aims to foster the development of the on-chain carbon credit market through an accumulation mechanics baked into the game. Whenever players transmute garbage into garbles, they are required to burn their trash items NFT and $NUCLEAR, the game currency. A portion of this tx is used to acquire carbon tokens in the open market. Carbon tokens are then sent to the treasury so that they are effectively removed from circulation. Governance can decide how to make use of these resources, either by generating additional income streams (i.e. money market/KlimaDAO etc.) or by retiring them.&#x20;
+
+
+
+![Potential flowchart of the carbon tokens accumulation dynamic. ](<../../.gitbook/assets/Transmutation tx flowchart.png>)
 

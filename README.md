@@ -17,8 +17,10 @@ Trash has become so abundant on our planet that humans don't know how to store i
 &#x20;\
 Garbles are cute, clumsy monsters that originate from garbage. Help them dove into our dumpsters and gobble up every plastic bottle they can find! Every time you create a Garble you are removing actual C02 from the environment. Assemble an army of lovable creatures and embark on a journey to populate the planet...while cleaning it!
 
+****
+
 **Official links**
 
-**Website:** [**https://www.garbles.fun/**](https://www.garbles.fun/)  ****  \
-**Discord:** [**https://discord.gg/yKvddrZ25u** ](https://discord.gg/yKvddrZ25u)****\
-**Twitter:** [**https://twitter.com/garblesfun**](https://twitter.com/garblesfun)****
+**🌐** [**Website**](https://www.garbles.fun/)****\
+**👾** [**Discord**](https://discord.gg/yKvddrZ25u)****\
+**🐦** [**Twitter**](https://twitter.com/garblesfun)

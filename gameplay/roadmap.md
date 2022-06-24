@@ -2,25 +2,25 @@
 
 ### Ideation - Q2 2022
 
-Concept creation
+Concept creation ✅
 
-Team formation
+Team formation ✅
 
-Initial community
+Initial community ✅
 
 ### Phase 0 - Q3 2022
 
+Community contests ✅
+
+Private Beta&#x20;
+
 Resources distribution (Transmuters NFT sale)
-
-Private Beta
-
-Community contests
 
 ### Phase 1 - Q4 2022
 
 Collect Eggs and Garbage
 
-Create Garbles
+Garbles generation
 
 Token distribution event
 

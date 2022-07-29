@@ -1,5 +1,5 @@
-# Job board
+# 📋 Job board
 
-If you like the concept hit us up! We love to talk and get feedback. We are especially looking for a  Designer and Unity Developer.
+We are currently looking for a Unity Developer, but feel free to reach out to us if you want to contribute.&#x20;
 
-You can reach out to us on our [Discord](https://discord.gg/yKvddrZ25u).
+You can get easily find us on [Discord](https://discord.gg/yKvddrZ25u).

@@ -1,4 +1,4 @@
-# Team
+# ⛹ Team
 
 Gabriele Picco - [Linkedin](https://www.linkedin.com/in/gabriele-picco/)
 

@@ -6,12 +6,9 @@ description: >-
 
 # Garbles Universe
 
-## Summary
+<figure><img src=".gitbook/assets/Discord background imageTitled.jpg" alt=""><figcaption></figcaption></figure>
 
-![](.gitbook/assets/andrea-cau-nV7GJmSq3zc-unsplash.jpg)
-
-Welcome to the world of Garbles!&#x20;
-
+**Welcome to the world of Garbles!** \
 \
 Trash has become so abundant on our planet that humans don't know how to store it anymore. Luckily, a group of smart scientists (we call them Cleantists) has found a way to cultivate goofy creatures that happen to be the perfect solution to the problem.\
 &#x20;\

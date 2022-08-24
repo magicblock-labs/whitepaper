@@ -4,4 +4,4 @@ Transmuters are a technological wonder created by Cleantist. They are the ultima
 
 Transmuters are extremely scarce and can be found and minted around specific point-of-interest on the map in Exploration mode. The lucky owner of a Transmuter can use it in perpetuity and receive a "rent" from other players that want to perform a transmutation themselves. Sweepers who get in front of a transmuter can interact with it and a portion of the $NUCLEAR used to trigger the reaction will accrue to the owner. Transmuters can also be accessed remotely, although for a higher amount of $NUCLEAR to account for the dispersion in energy.
 
-![A Transmuter](../../../.gitbook/assets/trsnamuter2.png)
+<figure><img src="https://lh3.googleusercontent.com/gLMGp1dagsnI4A_eUa7-5fYPhA0VME0NrgOn-9tedKJiH-zQZSEmCfJz76qmrzNJ1NrrqhZJZ09EsN61NCHhZ0ue0WT8d6MToVLiQc77qonxYkfnUdPNhqhZ3WjtDu8a6ZZn4IJy6xr1Bp2DqawC4wGPVA" alt=""><figcaption><p>A Transmuter</p></figcaption></figure>

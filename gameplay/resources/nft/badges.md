@@ -4,6 +4,6 @@ description: Your identification badge among your Union
 
 # Badges
 
-Cleantists are brilliant people, but when they disagree they tend to ... take it personal.
+Badges are resources earned after completing [Raids](../../gameplay-overview/raid.md) or [Daily challenges](../../gameplay-overview/daily-challenges.md). Badges comes in different types and can give you perks or boost the chances of collecting specific resources.&#x20;
 
-Over time their disagreement has caused most to gang up into Teams, affiliations competing one against the other for their common objective...
+Badges are also used to identify your Union. Cleantists are brilliant people, but when they disagree they tend to ... take it personal! Over time their disagreement has pushed some fringes to gang up into Unions, ideologically-divergent affiliations competing one against the other for their objective.  Despite their aura of brilliance, it sounds like there's a lot more to unfold about Cleantist!

@@ -8,7 +8,7 @@ description: Here you can find an overview of the Garbles universe.
 
 <summary>What are Garbles?</summary>
 
-Garbles are cute and funny creatures that originate from garbage. Different garbage types give birth to different garbles species through a process known as "transmutation". Check how transmutation works on the relative [page](../gameplay/gameplay/transmutation.md).
+Garbles are cute and funny creatures that originate from garbage. Different garbage types give birth to different garbles species through a process known as "transmutation". Check how transmutation works on the relative [page](../gameplay/gameplay-overview/transmutation.md).
 
 </details>
 

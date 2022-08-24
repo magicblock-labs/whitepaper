@@ -4,12 +4,12 @@
 
 ## Gameplay
 
-* [🕹 Gameplay](gameplay/gameplay/README.md)
-  * [Explore](gameplay/gameplay/explore.md)
-  * [Capture](gameplay/gameplay/capture.md)
-  * [Raid](gameplay/gameplay/raid.md)
-  * [Transmutation](gameplay/gameplay/transmutation.md)
-  * [Daily challenges](gameplay/gameplay/daily-challenges.md)
+* [🕹 Gameplay overview](gameplay/gameplay-overview/README.md)
+  * [Explore](gameplay/gameplay-overview/explore.md)
+  * [Capture](gameplay/gameplay-overview/capture.md)
+  * [Transmutation](gameplay/gameplay-overview/transmutation.md)
+  * [Raid](gameplay/gameplay-overview/raid.md)
+  * [Daily challenges](gameplay/gameplay-overview/daily-challenges.md)
 * [🐹 Garbles](gameplay/garbles.md)
 * [💎 Resources](gameplay/resources/README.md)
   * [NFT](gameplay/resources/nft/README.md)

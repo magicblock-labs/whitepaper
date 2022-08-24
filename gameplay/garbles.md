@@ -12,17 +12,12 @@ Garbles have the following on-chain properties:
 
 * `DNA` &#x20;
 * `Body`
-* `Pattern`
-* `Arms`
 * `Eyes`
-* `Crest`
-* `Eyes number`
-* `Arms number`
+* `Arms`
 * `Mouth`
 * `Locomotion`
 * `Primary color`
 * `Secondary color`
-* `Size`
 * `Speed`
 * `Voracity`
 
@@ -32,5 +27,5 @@ Other attributes are:
 * `Health`
 * `Hunger`
 
-Garbles inherit their traits from the material they originate from. DNA is influenced by `type` of  [Trash Items](resources/nft/trash-items.md) placed in the Transmuter, and so are all other traits. Size, Voracity and Hunger play a role in how fast a garble can consume garbage around the map.
+Garbles inherit their traits from the material they originate from. DNA is influenced by `DNA` of  [Eggs](resources/nft/eggs.md) placed in the Transmuter. Most of the traits are influenced by [Trash Items](resources/nft/trash-items.md).Voracity and Hunger play a role in how fast a garble can consume garbage around the map.
 

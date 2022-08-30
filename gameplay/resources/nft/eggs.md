@@ -9,7 +9,7 @@ Eggs have the following traits:
 
 <figure><img src="../../../.gitbook/assets/Garbles-RadioactiveCharacter-v2isoEgg copy.png" alt=""><figcaption><p>Garble egg</p></figcaption></figure>
 
-Eggs are themselves dependent from the kind of garbage they originate from. The most common types of eggs are:&#x20;
+Eggs are themselves dependent on the kind of garbage they originate from. The most common types of eggs are:&#x20;
 
 * `Plastic`
 * `Organic`

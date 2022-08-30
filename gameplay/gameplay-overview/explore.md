@@ -6,7 +6,7 @@ description: >-
 
 # Explore
 
-The goal of Exploration is to collect as much garbage as possible before it pollutes the environment even further.  Most of the garbage can be turned into valuable resources and be reutilized to progress in the game. There are two different classes of resources: **NFTs** and **Game items:**
+The goal of Exploration is to collect as much garbage as possible before it pollutes the environment even further. Most of the garbage can be turned into valuable resources and reutilized to progress in the game. There are two different classes of resources: **NFTs** and **Game items:**
 
 * [Eggs](../resources/nft/eggs.md), [Trash Items](../resources/nft/trash-items.md), [Transmuters](../resources/nft/transmuters.md) and [Badges](../resources/nft/badges.md) are all **NFTs** that can be **** used in the game and traded in the Marketplace.
 * [Candies](../resources/game-items/candies.md) and [Cartridges](../resources/game-items/cartridges.md) are **Game Items** that are extremely useful in the game, but cannot be exchanged elsewhere. \

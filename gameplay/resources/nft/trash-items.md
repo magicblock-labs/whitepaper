@@ -4,11 +4,11 @@ description: Trash Items must be used to create garbles for the good of the plan
 
 # Trash items
 
-Trash items are the unfortunate byproduct of human expansion on Earth. Luckily the smart Cleantists have found a way to turn them into Garbles, by accelerating the hatching process of  Eggs.
+Trash items are the unfortunate byproduct of human expansion on Earth. Luckily the smart Cleantist have found a way to turn them into Garbles, by accelerating the hatching process of  Eggs.
 
 ![Plastic toy pistol](../../../.gitbook/assets/toy\_pistol\_25.png)
 
-Trash Items can be found around the map or obtained in Raids.&#x20;
+Trash Items can be mostly found in Trash Bags and after completing Raids.&#x20;
 
 Their properties are:
 

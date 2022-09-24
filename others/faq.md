@@ -8,7 +8,7 @@ description: Here you can find an overview of the Garbles universe.
 
 <summary>What are Garbles?</summary>
 
-Garbles are cute and funny creatures that originate from garbage. Different garbage types give birth to different garbles species through a process known as "transmutation". Check how transmutation works on the relative [page](../gameplay/gameplay-overview/transmutation.md).
+Garbles are cute and funny creatures that originate from garbage. Different garbage types give birth to different garbles species through a process known as "Transmutation". Check how transmutation works on the relative [page](../gameplay/gameplay-overview/transmutation.md).
 
 </details>
 
@@ -16,15 +16,15 @@ Garbles are cute and funny creatures that originate from garbage. Different garb
 
 <summary>Is Garbles a mobile game?</summary>
 
-Yes, Garbles is a mobile game that will be available on Android and iOS. Join our [**Discord**](https://discord.gg/yKvddrZ25u) if you want to become an early tester and try out the private beta!
+Yes, Garbles is a mobile-first game that will be available on Android and iOS. Join our [**Discord**](https://discord.gg/yKvddrZ25u) if you want to become an early tester and try out the private beta!
 
 </details>
 
 <details>
 
-<summary>Do I need to know how to use crypto?</summary>
+<summary>Do I have to be familiar with cryptocurrencies to play it?</summary>
 
-We want to make Garbles as easy as possible even if you don't know anything about blockchains! Just for the initial beta version, you will need a tiny bit of crypto knowledge i.e. what is a wallet. That's it! We will guide you on how to create a wallet once you sign up for the first time and you can immediately start collecting trash!
+Garbles is a crypto game built for everyone, crypto and non-crypto users. Even if you don't know anything about blockchains, you can still play and have fun! If you don't have a crypto wallet, just signup with one of your social accounts and we'll create one for you in the game itself. You will still own and maintain the custody of all your assets (thanks to Web3auth). Easy as that!
 
 </details>
 
@@ -32,7 +32,7 @@ We want to make Garbles as easy as possible even if you don't know anything abou
 
 <summary>Is Garbles a P2E game?</summary>
 
-Completing missions such as eating the evil trash monsters that pollute the map or completing daily challenges will get you rewards in the form of game items, NFT or tokens.&#x20;
+Completing missions to fight polluting trash monsters or completing daily challenges will get you rewards in the form of game items, NFT or tokens. Garbles is way more than an unsustanable P2E though! We are designing the game economy to balance the fun, incentives and positive impact on the planet.&#x20;
 
 </details>
 

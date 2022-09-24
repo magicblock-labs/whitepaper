@@ -1,12 +1,12 @@
 ---
 description: >-
-  An immersive AR mobile game that helps clean up the planet -
+  An immersive AR mobile game that cleans up the planet -
   https://www.garbles.fun/
 ---
 
 # Garbles Universe
 
-<figure><img src=".gitbook/assets/Discord background imageTitled.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Discord background image copy 2.jpeg" alt=""><figcaption></figcaption></figure>
 
 **Welcome to the world of Garbles!** \
 \

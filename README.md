@@ -1,6 +1,6 @@
 ---
 description: >-
-  An immersive AR mobile game that cleans up the planet -
+  The blockchain mobile game that cleans up the planet -
   https://www.garbles.fun/
 ---
 

@@ -14,28 +14,28 @@ Community contests ✅
 
 Private Beta&#x20;
 
-Resources distribution (Transmuters NFT sale)
+Eggs and Garbage collection
 
 ### Phase 1 - Q4 2022
 
-Collect Eggs and Garbage
+Minigames
+
+Transmuter distribution
+
+Open beta
+
+### Phase 2 - Q2 2023
 
 Garbles generation
 
 Token distribution event
 
-### Phase 2 - Q1 2023
-
-Raid mode beta
-
-Additional batch of Transmuters
-
 Ecosystem grant setup (for 3rd parties to build on the garbles universe)
 
 ### Ongoing
 
-Full launch with Raid mode
+Raid mode
 
-AR
+Team-based missions
 
-Playable minigames developer by 3rd parties
+Playable minigames developed by 3rd parties

@@ -16,6 +16,7 @@
     * [Eggs](gameplay/resources/nft/eggs.md)
     * [Trash items](gameplay/resources/nft/trash-items.md)
     * [Transmuters](gameplay/resources/nft/transmuters.md)
+    * [Vacuum cleaner](gameplay/resources/nft/vacuum-cleaner.md)
     * [Badges](gameplay/resources/nft/badges.md)
   * [Game Items](gameplay/resources/game-items/README.md)
     * [Candies](gameplay/resources/game-items/candies.md)

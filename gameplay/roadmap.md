@@ -24,7 +24,7 @@ Transmuter distribution
 
 Open beta
 
-### Phase 2 - Q2 2023
+### Phase 2 - Q1 2023
 
 Garbles generation
 

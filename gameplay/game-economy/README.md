@@ -1,3 +1,0 @@
-# 🪙 Tokenomics
-
-TBA

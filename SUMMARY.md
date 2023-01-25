@@ -1,15 +1,15 @@
 # Table of contents
 
-* [Garbles Universe](README.md)
+* [Garbles](README.md)
 
 ## Gameplay
 
-* [🕹 Gameplay overview](gameplay/gameplay-overview/README.md)
-  * [Explore](gameplay/gameplay-overview/explore.md)
-  * [Capture](gameplay/gameplay-overview/capture.md)
-  * [Transmutation](gameplay/gameplay-overview/transmutation.md)
-  * [Raid](gameplay/gameplay-overview/raid.md)
-  * [Daily challenges](gameplay/gameplay-overview/daily-challenges.md)
+* [🕹 Gameplay](gameplay/gameplay/README.md)
+  * [Explore](gameplay/gameplay/explore.md)
+  * [Capture](gameplay/gameplay/capture.md)
+  * [Transmutation](gameplay/gameplay/transmutation.md)
+  * [Raid](gameplay/gameplay/raid.md)
+  * [Daily challenges](gameplay/gameplay/daily-challenges.md)
 * [😈 Garbles](gameplay/garbles.md)
 * [💎 Resources](gameplay/resources/README.md)
   * [Consumable](gameplay/resources/nft/README.md)
@@ -21,14 +21,14 @@
     * [Vacuum cleaner](gameplay/resources/nft/vacuum-cleaner.md)
     * [Transmuters](gameplay/resources/nft/transmuters.md)
   * [C02 tokens](gameplay/resources/c02-tokens.md)
-* [🪙 Game economy](gameplay/game-economy/README.md)
-  * [NUCLEAR](gameplay/game-economy/nuclear.md)
+* [🪙 Game economy](gameplay/tokenomics/README.md)
+  * [NUCLEAR](gameplay/tokenomics/usdnuclear.md)
 * [🚀 Roadmap](gameplay/roadmap.md)
 
 ## Others
 
 * [❓ FAQ](others/faq.md)
-* [⛹ Team](others/team.md)
+* [⛹ Team](team/team.md)
 
 ## Technology
 

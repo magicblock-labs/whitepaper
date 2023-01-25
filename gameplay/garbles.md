@@ -2,7 +2,7 @@
 description: Garbles are adorable trash-eating creatures that will save the planet!
 ---
 
-# 🐹 Garbles
+# 😈 Garbles
 
 ![A baby garble](<../.gitbook/assets/Garbles-OrganicCharacter-v2isoBaby copy (1).jpg>)
 

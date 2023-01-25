@@ -10,7 +10,7 @@
   * [Transmutation](gameplay/gameplay-overview/transmutation.md)
   * [Raid](gameplay/gameplay-overview/raid.md)
   * [Daily challenges](gameplay/gameplay-overview/daily-challenges.md)
-* [🐹 Garbles](gameplay/garbles.md)
+* [😈 Garbles](gameplay/garbles.md)
 * [💎 Resources](gameplay/resources/README.md)
   * [Consumable](gameplay/resources/nft/README.md)
     * [Eggs](gameplay/resources/nft/eggs.md)
@@ -21,18 +21,18 @@
     * [Vacuum cleaner](gameplay/resources/nft/vacuum-cleaner.md)
     * [Transmuters](gameplay/resources/nft/transmuters.md)
   * [C02 tokens](gameplay/resources/c02-tokens.md)
-* [🪙 Tokenomics](gameplay/tokenomics/README.md)
-  * [$NUCLEAR](gameplay/tokenomics/usdnuclear.md)
+* [🪙 Game economy](gameplay/game-economy/README.md)
+  * [NUCLEAR](gameplay/game-economy/nuclear.md)
 * [🚀 Roadmap](gameplay/roadmap.md)
-
-## Team
-
-* [⛹ Team](team/team.md)
-* [📋 Job board](team/job-board.md)
 
 ## Others
 
 * [❓ FAQ](others/faq.md)
+* [⛹ Team](others/team.md)
+
+## Technology
+
+* [📡 SolanaUnitySDK](technology/solanaunitysdk.md)
 
 ## Official links
 

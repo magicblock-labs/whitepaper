@@ -12,11 +12,11 @@
   * [Daily challenges](gameplay/gameplay/daily-challenges.md)
 * [😈 Garbles](gameplay/garbles.md)
 * [💎 Resources](gameplay/resources/README.md)
-  * [Consumable](gameplay/resources/nft/README.md)
-    * [Eggs](gameplay/resources/nft/eggs.md)
-    * [Trash items](gameplay/resources/nft/trash-items.md)
-    * [Berries](gameplay/resources/game-items/candies.md)
-    * [Badges](gameplay/resources/nft/badges.md)
+  * [Consumables](gameplay/resources/consumables/README.md)
+    * [Eggs](gameplay/resources/consumables/eggs.md)
+    * [Trash items](gameplay/resources/consumables/trash-items.md)
+    * [Berries](gameplay/resources/consumables/berries.md)
+    * [Badges](gameplay/resources/consumables/badges.md)
   * [Equipment](gameplay/resources/game-items/README.md)
     * [Vacuum cleaner](gameplay/resources/nft/vacuum-cleaner.md)
     * [Transmuters](gameplay/resources/nft/transmuters.md)
@@ -33,6 +33,7 @@
 ## Technology
 
 * [📡 SolanaUnitySDK](technology/solanaunitysdk.md)
+* [🏦 In-game wallet](technology/in-game-wallet.md)
 
 ## Official links
 

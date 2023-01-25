@@ -6,7 +6,7 @@ description: The blockchain mobile game that cleans up the planet
 
 <figure><img src=".gitbook/assets/Discord background image copy 2.jpeg" alt=""><figcaption></figcaption></figure>
 
-## Welcome to Garbles, Sweepers!
+## Welcome, Sweepers!
 
 Trash has become so abundant on our planet that humans don't know how to store it anymore. Luckily, a group of smart scientists (we call them Cleantists) has found a way to cultivate goofy creatures that appear to be the perfect solution to the problem! 🗑️ \
 &#x20;\

@@ -1,6 +1,6 @@
 # 🚀 Roadmap
 
-### Ideation - Q2 2022
+### Ideation - Q3 2022
 
 Concept creation ✅
 
@@ -8,29 +8,29 @@ Team formation ✅
 
 Initial community ✅
 
-### Phase 0 - Q3 2022
+### Phase 0 - Q4 2022
 
 Community contests ✅
 
-Private Beta&#x20;
+Private Alpha ✅
 
-Eggs and Garbage collection
+UnitySDK ✅
 
-### Phase 1 - Q4 2022
+### Phase 1 - Q1 2023
 
-Minigames
+Private beta 🏗️
 
-Transmuter distribution
+Eggs and Garbage collection&#x20;
 
-Open beta
+Transmuter distribution&#x20;
 
-### Phase 2 - Q1 2023
+### Phase 2 - Q2 2023
 
-Garbles generation
+Garbles generation&#x20;
 
 Token distribution event
 
-Ecosystem grant setup (for 3rd parties to build on the garbles universe)
+Ecosystem grant setup
 
 ### Ongoing
 
@@ -38,4 +38,4 @@ Raid mode
 
 Team-based missions
 
-Playable minigames developed by 3rd parties
+Composable levels

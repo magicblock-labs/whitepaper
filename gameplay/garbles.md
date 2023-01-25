@@ -27,5 +27,5 @@ Other attributes are:
 * `Health`
 * `Hunger`
 
-Garbles inherit their traits from the material they originate from. DNA is influenced by the `DNA` of  [Eggs](resources/consumable/eggs.md) placed in the Transmuter. Most of the traits are influenced by [Trash Items](resources/consumable/trash-items.md). Voracity and Hunger play a role in how fast a garble can consume garbage around the map.
+Garbles inherit their traits from the material they originate from. DNA is influenced by the `DNA` of  [Eggs](resources/nft/eggs.md) placed in the Transmuter. Most of the traits are influenced by [Trash Items](resources/nft/trash-items.md). Voracity and Hunger play a role in how fast a garble can consume garbage around the map.
 

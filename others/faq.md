@@ -40,6 +40,6 @@ Completing missions to fight polluting trash monsters or completing daily challe
 
 <summary>Do I have to pay to play Garbles?</summary>
 
-You can start playing Garbles for free! To make the most out of the game though, a small amount of SOL may be beneficial to get a [transmuter](../gameplay/resources/nft/transmuters.md) before anybody else or mint the [NFT](../gameplay/resources/consumables/) that you find around. You can either transfer SOL to your game wallet or use the upcoming credit card integrations if you don't own any crypto outside of the game.&#x20;
+You can start playing Garbles for free! To make the most out of the game though, a small amount of SOL may be beneficial to get a [transmuter](../gameplay/resources/nft/transmuters.md) before anybody else or mint the [NFT](../gameplay/resources/nft/) that you find around. You can either transfer SOL to your game wallet or use the upcoming credit card integrations if you don't own any crypto outside of the game.&#x20;
 
 </details>

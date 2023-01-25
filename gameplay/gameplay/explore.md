@@ -11,14 +11,14 @@ The goal of Exploration is to collect the most trash resources you can find arou
 Here's the list of resources available in Garbles by category. \
 ****\
 **Consumable**\
-****- [Eggs](../resources/consumables/eggs.md)\
-\- [Trash Items](../resources/consumables/trash-items.md)\
-\- **** [Berries](../resources/consumables/berries.md)****\
+****- [Eggs](../resources/nft/eggs.md)\
+\- [Trash Items](../resources/nft/trash-items.md)\
+\- **** [Berries](../resources/game-items/candies.md)****\
 ****  \
 **Equipment**\
 ****- [Transmuter](../resources/nft/transmuters.md)\
 \- [Vacuum Cleaner](../resources/nft/vacuum-cleaner.md)\
-\- [Badges](../resources/consumables/badges.md)\
+\- [Badges](../resources/nft/badges.md)\
 \
 Learn more about each [Resource](../resources/) on the relative page.
 

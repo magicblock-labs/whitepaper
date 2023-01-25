@@ -38,7 +38,7 @@
 ## Official links
 
 * [🌐 Website](https://garbles.fun)
-* [👾 Discord](https://garbles.fun)
+* [👾 Discord](https://discord.com/invite/zHFtdVMA6e)
 * [🐦 Twitter](https://twitter.com/garblesfun)
 * [🧾 Medium](https://medium.com/@garblesfun)
 * [🐙 Github](https://github.com/garbles-labs)

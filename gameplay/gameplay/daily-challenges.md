@@ -9,3 +9,4 @@ Daily challenges are simple missions that yield rewards when completed. There ar
 {% hint style="info" %}
 **Spoiler alert:** "Sweeper of the week" is the title awarded to whoever collects the most amount of [Trash Items](../resources/nft/trash-items.md) in a week.&#x20;
 {% endhint %}
+

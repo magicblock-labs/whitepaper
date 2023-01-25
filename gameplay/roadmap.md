@@ -1,6 +1,6 @@
 # 🚀 Roadmap
 
-### Ideation - Q2/Q3 2022
+### Ideation - Q3 2022
 
 Concept creation ✅
 

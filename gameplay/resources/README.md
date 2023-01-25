@@ -6,4 +6,4 @@ description: >-
 
 # 💎 Resources
 
-All resources are NFT owned by the player and most of them can be found around the map or obtained after completing Raids. They can be **** used in the game, collected or traded in the Marketplace. Check out [Consumables](nft/) or [Equipment](game-items/) in the relative pages.&#x20;
+Resources can either be NFT or Game Items. They can be found around the map, within Trash Bags or after completing Raids. NFTs are those resources that can be **** used in the game, collected and traded in the Marketplace. Game items are important assets in the game but cannot be traded with other players. Resources are the main target of Exploration mode and are pivotal to make progress and compete on the global leaderboard.&#x20;

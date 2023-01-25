@@ -4,7 +4,7 @@ description: Learn how the transmutation process works
 
 # Transmutation
 
-Transmutation is the process of turning garbage into Garbles. To do so, you need at least these resources:
+Transmutation is the process of turning garbage into garbles. To do so, you need at least these resources:
 
 * 1 Egg
 * 3 Trash Items

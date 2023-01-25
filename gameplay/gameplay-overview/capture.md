@@ -1,12 +1,15 @@
 ---
-description: Capture mode is the challenge to collect Items and NFTs.
+description: Tap an item to enter in Capture mode and mint your NFT.
 ---
 
 # Capture
 
-All Sweepers (players) are equipped with a powerful vacuum cleaner, which is their primary tool to collect resources. Finding an egg or a trash item prompts Capture mode. This is your chance to suck in the object with your vacuum cleaner and mint it! Remember, it's your duty as a sweeper to vacuum up whatever objects you may find in your proximity to accumulate precious resources and progress in the game. \
+<figure><img src="../../.gitbook/assets/capture.png" alt=""><figcaption></figcaption></figure>
+
 \
-Vacuum cleaners require [Cartridges](../resources/game-items/cartridges.md) to function. Cartridges are items themselves and can be found within trash bags. If you run out of Cartridges, search in your surrounding to recharge.&#x20;
+All Sweepers are equipped with a [Vacuum Cleaner](../resources/equipment/vacuum-cleaner.md). It is your primary tool to suck--in resources and clean up the environment. Tap into an Egg or a Trash Item to prompt Capture mode. Remember, the mint is free (if you are able to capture the items), but you have to make sure your wallet is funded. If you don't know how to do it, here's a simple guide that will help you. \
+\
+It is your duty as a Sweeper to vacuum up whatever objects you may find in your proximity and accumulate resources to generate Garbles. The likelihood of collecting certain Items depends on your vacuum model so keep an eye on the latest customization!
 
 ### Capture activites
 

@@ -6,18 +6,26 @@ description: >-
 
 # Explore
 
-The goal of Exploration is to collect as much garbage as possible before it pollutes the environment even further. Most of the garbage can be turned into valuable resources and reutilized to progress in the game. There are two different classes of resources: \
+The goal of Exploration is to collect the most trash resources you can find around the map so you can reuse them to Transmute. All items are NFT that are free to mint and owned by yourself. Every player has a wallet, you just have to make sure it is funded to pay for the mint cost (which is less than a penny on Solana!)\
 \
-**NFTs:** [Eggs](../resources/nft/eggs.md), [Trash Items](../resources/nft/trash-items.md), [Transmuters](../resources/nft/transmuters.md), Vacuum Cleaner and [Badges](../resources/nft/badges.md) are all NFT that can be **** used in the game and traded in the Marketplace.\
+Here's the list of resources available in Garbles, by category. \
+****\
+**Consumable**\
+****- [Eggs](../resources/consumable/eggs.md)\
+\- [Trash Items](../resources/consumable/trash-items.md)\
+\- **** [Berries](../resources/consumable/berries.md)****\
+****  \
+**Equipment**\
+****- [Transmuter](../resources/equipment/transmuters.md)\
+\- [Vacuum Cleaner](../resources/equipment/vacuum-cleaner.md)\
+\- [Badges](../resources/consumable/badges.md)\
 \
-**Game items:** [Candies](../resources/game-items/candies.md) and [Cartridges](../resources/game-items/cartridges.md) are Game Items that are extremely useful in the game, but cannot be exchanged elsewhere. \
-\
-NFT are visible on the map, while Game Items must be searched within Trash Bags. Find and clear Trash Bags to capture their contents. Learn more about each [Resource](../resources/) on the relative page.
+Learn more about each [Resource](../resources/) on the relative page.
 
 <figure><img src="../../.gitbook/assets/IMG_1604 (1).png" alt=""><figcaption><p>Points-of-interests on the map are playable spots where NFT and Items will spawn.</p></figcaption></figure>
 
 \
-The first player to clear a zone can claim control over that area through a Transmuter. Transmuters can only be activated by their owners and are used to transmute garbage into garbles. Check out how [Transmuters](../resources/nft/transmuters.md) and the [Transmutations](transmutation.md) process work.
+The first player to clear a zone can claim control over that area through a Transmuter. Transmuters can only be activated by their owners and are used to transmute garbage into garbles. Check out how [Transmuters](../resources/equipment/transmuters.md) and the [Transmutations](transmutation.md) process work.
 
 With enough Garbles, players can participate in Raids, time-based missions to fight trash and obtain rewards. Raids opportunities are monitored on the map. Learn more about [Raids](raid.md) dynamics on the relative section.&#x20;
 

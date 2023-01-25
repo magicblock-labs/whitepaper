@@ -17,9 +17,4 @@ Garbles are cute, clumsy monsters originating from garbage. Create thousands of 
 
 **🌐** [**Website**](https://www.garbles.fun/)****\
 **👾** [**Discord**](https://discord.gg/yKvddrZ25u)****\
-**🐦** [**Twitter**](https://twitter.com/garblesfun)****\
-****
-
-### What's on the news
-
-{% embed url="https://twitter.com/garblesfun" %}
+**🐦** [**Twitter**](https://twitter.com/garblesfun)

@@ -19,9 +19,9 @@
     * [Badges](gameplay/resources/nft/badges.md)
   * [Equipment](gameplay/resources/game-items/README.md)
     * [Vacuum cleaner](gameplay/resources/nft/vacuum-cleaner.md)
-    * [Transmuters](gameplay/resources/nft/transmuters.md)
-  * [C02 tokens](gameplay/resources/c02-tokens.md)
+    * [Transmuter](gameplay/resources/equipment/transmuter.md)
 * [🪙 Game economy](gameplay/tokenomics/README.md)
+  * [C02 tokens](gameplay/game-economy/c02-tokens.md)
   * [NUCLEAR](gameplay/tokenomics/usdnuclear.md)
 * [🚀 Roadmap](gameplay/roadmap.md)
 

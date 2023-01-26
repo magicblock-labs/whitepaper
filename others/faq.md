@@ -8,7 +8,7 @@ description: Here you can find an overview of the Garbles universe.
 
 <summary>What are Garbles?</summary>
 
-Garbles are cute and funny creatures that originate from garbage. Different garbage types give birth to different garbles species through a process known as "Transmutation". Check how transmutation works on the relative [page](../gameplay/gameplay/transmutation.md).
+Garbles are cute and funny creatures that originate from garbage. Different garbage types give birth to different garbles species through a process known as "Transmutation". Check out how transmutation works on this [page](../gameplay/gameplay/transmutation.md).
 
 </details>
 
@@ -16,7 +16,7 @@ Garbles are cute and funny creatures that originate from garbage. Different garb
 
 <summary>Is Garbles a mobile game?</summary>
 
-Yes, Garbles is a mobile-first game that will be available on Android and iOS. Join our [**Discord**](https://discord.gg/yKvddrZ25u) if you want to become an early tester and try out the private beta!
+Yes, Garbles is a mobile-first game that will be available on Saga, Android and iOS. Join our [**Discord**](https://discord.gg/yKvddrZ25u) if you want to become an early tester and try the private beta!
 
 </details>
 
@@ -30,16 +30,8 @@ Garbles is a crypto game built for everyone, crypto and non-crypto users. Even i
 
 <details>
 
-<summary>Is Garbles a P2E game?</summary>
-
-Completing missions to fight polluting trash monsters or completing daily challenges will get you rewards in the form of game items, NFT or tokens. Garbles is way more than an unsustanable P2E though! We are designing the game economy to balance the fun, incentives and positive impact on the planet.&#x20;
-
-</details>
-
-<details>
-
 <summary>Do I have to pay to play Garbles?</summary>
 
-You can start playing Garbles for free! To make the most out of the game though, a small amount of SOL may be beneficial to get a [transmuter](../gameplay/resources/nft/transmuters.md) before anybody else or mint the [NFT](../gameplay/resources/nft/) that you find around. You can either transfer SOL to your game wallet or use the upcoming credit card integrations if you don't own any crypto outside of the game.&#x20;
+You can start playing Garbles for free! To make the most out of the game though, a small amount of SOL may be beneficial to get a [transmuter](../gameplay/resources/equipment/transmuter.md) before anybody else or mint the [NFT](../gameplay/resources/nft/) that you find around. You can either transfer SOL to your game wallet or use the upcoming credit card integrations if you don't own any crypto outside of the game.&#x20;
 
 </details>

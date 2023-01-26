@@ -6,6 +6,6 @@ description: The ultimate weapon to kill dirt
 
 <figure><img src="../../../.gitbook/assets/Founders&#x27; edition - Floating.gif" alt=""><figcaption></figcaption></figure>
 
-Vacuum cleaners are your weapon to collect trash. Hold them in your game wallet to enhance your stats.\
+Vacuum cleaners are your weapon to collect trash. Equip your favourite Vacuum Cleaner to enhance your capturing skills.\
 \
 Coming soon👀

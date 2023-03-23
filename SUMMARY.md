@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Garbles](README.md)
+* [Magicblock](README.md)
+* [Garbles](<README (1).md>)
 
 ## Gameplay
 

@@ -18,9 +18,9 @@ Test alpha ✅
 
 ### Phase 1 - Q1 2023
 
-Private alpha 🏗️
+SMS integration ✅
 
-SMS integration 🏗️
+Private alpha 🏗️
 
 Eggs and Garbage collection&#x20;
 
@@ -30,14 +30,16 @@ Transmuter distribution&#x20;
 
 Garbles generation&#x20;
 
-Token distribution event
-
-Ecosystem grant setup
-
-### Ongoing
+Composable levels
 
 Raid mode
 
+Ecosystem grant setup
+
+### Onwards
+
+Token distribution event
+
 Team-based missions
 
-Composable levels
+Games integrations

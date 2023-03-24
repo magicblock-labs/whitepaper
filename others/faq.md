@@ -14,7 +14,7 @@ Garbles are cute and funny creatures that originate from garbage. Different garb
 
 <details>
 
-<summary>Is Garbles a mobile game?</summary>
+<summary>Is Garbles available for mobile?</summary>
 
 Yes, Garbles is a mobile-first game that will be available on Saga, Android and iOS. Join our [**Discord**](https://discord.gg/yKvddrZ25u) if you want to become an early tester and try the private beta!
 

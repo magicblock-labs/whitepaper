@@ -1,6 +1,6 @@
 # 🕹 Gameplay
 
-Garbles is a geolocation-based, on-chain mobile game where you can create infinite combinations of trash-based monsters while collecting [NFT](../resources/nft/) resources and removing[ C02](../game-economy/c02-tokens.md) in the process.\
+Garbles is a geolocation-based mobile game where you can create infinite combinations of trash-based monsters while collecting [NFT](../resources/nft/) resources and removing[ C02](../game-economy/c02-tokens.md) in the process.\
 \
 Sweepers can explore their surroundings to collect [Eggs](../resources/nft/eggs.md), [Trash Items](../resources/nft/trash-items.md) and other useful scrap materials. All these resources can be freely minted as NFTs and are owned by the players. The trash items and the Eggs are needed to give birth to a baby Garble through the Transmutation process. [Trasmuters](../resources/equipment/transmuter.md) are powerful machines that can turn specific types of garbage into a unique combination of attributes. The link between trash items and Garbles is unclear, and it's up to you to find out!&#x20;
 

@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Magicblock ecosystem](README.md)
-* [Garbles](<README (1).md>)
+* [Garbles](README.md)
 
 ## Gameplay
 

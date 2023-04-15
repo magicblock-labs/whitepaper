@@ -9,14 +9,14 @@ description: Exploration mode is all about cleaning the planet while discovering
 The goal of Exploration is to collect as many trash resources as you can find around the map and use them to Transmute. When you are close to an item, you can trigger [Capture](capture.md) to mint it. All items are free but you will need to ensure your [Wallet](../../technology/in-game-wallet.md) is properly funded to perform the transaction.\
 \
 Here's the list of resources available in Garbles by category. \
-****\
+\
 **Consumable**\
-****- [Eggs](../resources/nft/eggs.md)\
+\- [Eggs](../resources/nft/eggs.md)\
 \- [Trash Items](../resources/nft/trash-items.md)\
-\- **** [Berries](../resources/game-items/candies.md)****\
-****  \
+\- [Berries](../resources/game-items/candies.md)\
+&#x20; \
 **Equipment**\
-****- [Transmuter](../resources/equipment/transmuter.md)\
+\- [Transmuter](../resources/equipment/transmuter.md)\
 \- [Vacuum Cleaner](../resources/nft/vacuum-cleaner.md)\
 \- [Badges](../resources/nft/badges.md)\
 \

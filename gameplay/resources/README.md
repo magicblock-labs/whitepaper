@@ -6,4 +6,4 @@ description: >-
 
 # 💎 Resources
 
-All resources are NFT owned by the player and most of them can be found around the map or obtained after completing Raids. They can be **** used in the game, collected or traded in the Marketplace. Check out [Consumables](nft/) or [Equipment](game-items/) in the relative pages.&#x20;
+All resources are NFT owned by the player and most of them can be found around the map or obtained after completing Raids. They can be used in the game, collected or traded in the Marketplace. Check out [Consumables](nft/) or [Equipment](game-items/) in the relative pages.&#x20;
